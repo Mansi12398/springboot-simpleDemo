@@ -22,7 +22,7 @@ First, create a project with a spring boot initializer and unzip in a specific p
 
 First, build and then run an application using the following steps: 
 
- Build application:
+ **Build application:**
 1) Right Click on your project in Project Explorer.
 2) Click on **Run As**.
 3) Click on **Run Configurations...**
@@ -33,7 +33,7 @@ First, build and then run an application using the following steps:
 8) Click on **Apply**.
 9) Click on **Run**.
 
-Run application:
+**Run application:**
 1) Right-click on **src/main/java** package of your project in Project Explorer.
 2) Click on **Run As**.
 3) Click on **Java Application**.
